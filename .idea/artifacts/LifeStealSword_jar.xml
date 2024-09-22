@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LifeStealSword:jar">
+    <output-path>$PROJECT_DIR$/../../../../.Minecraft Development/servers/1.21 server/plugins</output-path>
+    <root id="archive" name="LifeStealSword.jar">
+      <element id="module-output" name="LifeStealSword" />
+    </root>
+  </artifact>
+</component>

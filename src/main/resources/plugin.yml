@@ -1,0 +1,8 @@
+name: LifeStealSword
+version: '1.0-SNAPSHOT'
+main: mischa.lifeStealSword.LifeStealSword
+api-version: '1.21'
+commands:
+  givelifesword:
+    description: "pick rank"
+    usage: /pickrank
